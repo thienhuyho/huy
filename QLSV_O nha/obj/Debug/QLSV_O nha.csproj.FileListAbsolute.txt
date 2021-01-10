@@ -1,0 +1,15 @@
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\QLSV_O nha\bin\Debug\QLSV_O nha.exe.config
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\QLSV_O nha\bin\Debug\QLSV_O nha.exe
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\QLSV_O nha\bin\Debug\QLSV_O nha.pdb
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\QLSV_O nha\bin\Debug\EntityFramework.dll
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\QLSV_O nha\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\QLSV_O nha\bin\Debug\EntityFramework.xml
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\QLSV_O nha\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\QLSV_O nha\obj\Debug\QLSV_O_nha.Form1.resources
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\QLSV_O nha\obj\Debug\QLSV_O_nha.Properties.Resources.resources
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\QLSV_O nha\obj\Debug\QLSV_O nha.csproj.GenerateResource.cache
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\QLSV_O nha\obj\Debug\QLSV_O nha.csproj.CoreCompileInputs.cache
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\QLSV_O nha\obj\Debug\QLSV_O nha.csproj.CopyComplete
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\QLSV_O nha\obj\Debug\QLSV_O nha.exe
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\QLSV_O nha\obj\Debug\QLSV_O nha.pdb
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\QLSV_O nha\obj\Debug\QLSV_O_nha.AddClass.resources
